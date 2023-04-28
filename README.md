@@ -3,8 +3,8 @@ Ariful556/Ariful556 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
-<h1 align="center">Hi 👋, I'm Md. Ariful Islam</h1>
-<h3 align="center">Software Engineer Trainee @ BJIT Ltd.</h3>
+<h1 align="left">Hi 👋, I'm Md. Ariful Islam</h1>
+<h3 align="left">Software Engineer Trainee @ BJIT Ltd.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariful556&label=Profile%20views&color=0e75b6&style=flat" alt="ariful556" /> </p>
 
