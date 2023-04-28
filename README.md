@@ -10,15 +10,17 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariful556" alt="ariful556" /></a> </p>
 
-- ## 👨🏽‍💻 What I'm working on 
-- Currently, I am working on BJIT Trainee Software Engineer**
+## 👨🏽‍💻 What I'm working on 
+Currently, I am working on BJIT Trainee Software Engineer**
 
 ## 🧠 What I'm currently learning
 I'm currently learning JAVA,JSP,SERVLET,SPRING BOOT,REACT.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashik255](https://github.com/ashik255)
+## 👨‍💻 All of my projects are available at
+[https://github.com/ashik255](https://github.com/ashik255)
 
-- 📫 How to reach me **mdarifulbd.cse@gmail.com**
+ ##📫 How to reach me
+ **mdarifulbd.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
