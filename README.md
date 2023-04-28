@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 Currently, I am working on BJIT Trainee Software Engineer
 
 ## 🧠 What I'm currently learning
-I'm currently learning Java,Jsp ,Servlet,SPRING BOOT,REACT.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.**
+I'm currently learning Java,Jsp ,Servlet,SPRING BOOT,REACT.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
 
 ## 👨‍💻 All of my projects are available at
 [https://github.com/ashik255](https://github.com/ashik255)
