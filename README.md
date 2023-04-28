@@ -1,7 +1,7 @@
-<!---
+<!-- -
 Ariful556/Ariful556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+- -->
 <img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1 align="left">Hi 👋, I'm Md. Ariful Islam</h1>
 <h3 align="left">Software Engineer Trainee @ BJIT Ltd.</h3>
@@ -11,15 +11,15 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariful556" alt="ariful556" /></a> </p>
 
 ## 👨🏽‍💻 What I'm working on 
-Currently, I am working on BJIT Trainee Software Engineer**
+Currently, I am working on BJIT Trainee Software Engineer
 
 ## 🧠 What I'm currently learning
-I'm currently learning JAVA,JSP,SERVLET,SPRING BOOT,REACT.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.**
+I'm currently learning Java,Jsp ,Servlet,SPRING BOOT,REACT.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.**
 
 ## 👨‍💻 All of my projects are available at
 [https://github.com/ashik255](https://github.com/ashik255)
 
- ##📫 How to reach me
+ ## 📫 How to reach me
  **mdarifulbd.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
