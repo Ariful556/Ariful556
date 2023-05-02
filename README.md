@@ -18,13 +18,13 @@ I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my deve
 - <b>Topics:</b> Web Development, Git/GitHub
 - <b>Technologies:</b> Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Figma
 
-## ⚡ Fun fact
-[Insert a fun fact about yourself that people might find interesting.]
+<!-- ## ⚡ Fun fact
+[Insert a fun fact about yourself that people might find interesting.] -->
 
-## 📝 Blogs and writing
+<!-- ## 📝 Blogs and writing
 I've very active, writing content regularly to at least one of these.
 - [Blog Link]
-- [Blog Link]
+- [Blog Link] -->
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
@@ -53,11 +53,11 @@ I've very active, writing content regularly to at least one of these.
 - Java2EE in BJIT Academy
 
 - Complete Web Development Course With Jhankar Mahbub
-
+<!-- 
 ## 🏆 Achievements
 - [List of professional achievements, such as awards, recognitions, or honors]
 - [List of projects you've completed that you're particularly proud of]
-
+ -->
 <hr>
 <h3 align="left">🌟 Project</h3>
 
