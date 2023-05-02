@@ -63,7 +63,9 @@ I've very active, writing content regularly to at least one of these.
 
 Personal Projects:
 Project Name - Car Selling - Live Site
+
 Technologies: React.js, Firebase, React Bootstrap, Material-UI, Node.js, MongoDB, Express.js.
+
 ● Full stack website.
 ● It’s a car selling-based website and new features can be added.
 ● It has a customized admin panel where the admin can add a product, delete a product shipped the order, and
