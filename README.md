@@ -62,29 +62,41 @@ I've very active, writing content regularly to at least one of these.
 <h3 align="left">🌟 Project</h3>
 
 Personal Projects:
-Project Name - Car Selling - Live Site
+Project Name - Car Selling - <a href="https://car-selling-ef9d9.web.app/">
+  Live Site
+</a>
 
 Technologies: React.js, Firebase, React Bootstrap, Material-UI, Node.js, MongoDB, Express.js.
 
 ● Full stack website.
+<br/>
 ● It’s a car selling-based website and new features can be added.
+<br/>
 ● It has a customized admin panel where the admin can add a product, delete a product shipped the order, and
 make an admin.
 
 
-Project Name - Travel Agency - <a href="https://car-selling-ef9d9.web.app/">
+Project Name - Travel Agency - <a href="https://travel-agency-ac3cd.web.app/">
   Live Site
 </a>
 Technologies: React.js, Firebase, React Bootstrap, Material-UI, Node.js, MongoDB, Express.js.
+<br/>
 ● Full stack website.
+<br/>
 ● More will be added to various information sites.
+<br/>
 ● Firebase signs up and custom registration form.
 
 
-Project Name - Health Care - Live Site
+Project Name - Health Care - <a href="https://health-bag-32b48.web.app/">
+  Live Site
+</a>
 Technologies: React.js, Firebase, React Bootstrap.
+<br/>
 ● Developed a medical website, which serves different kinds of medical.
+<br/>
 ● This Website is fully Response on all devices.
+<br/>
 ● They can get an appointment after login in.
 
 
