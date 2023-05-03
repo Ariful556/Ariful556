@@ -62,6 +62,7 @@ I've very active, writing content regularly to at least one of these.
 <h3 align="left">🌟 Project</h3>
 
 Personal Projects:
+<br/>
 Project Name - Car Selling - <a href="https://car-selling-ef9d9.web.app/">
   Live Site
 </a>
