@@ -65,6 +65,7 @@ Personal Projects:
 Project Name - Car Selling - <a href="https://car-selling-ef9d9.web.app/">
   Live Site
 </a>
+<br/>
 Technologies: React.js, Firebase, React Bootstrap, Material-UI, Node.js, MongoDB, Express.js.
 ● Full stack website.
 <br/>
