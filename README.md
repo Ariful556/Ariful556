@@ -65,9 +65,7 @@ Personal Projects:
 Project Name - Car Selling - <a href="https://car-selling-ef9d9.web.app/">
   Live Site
 </a>
-
 Technologies: React.js, Firebase, React Bootstrap, Material-UI, Node.js, MongoDB, Express.js.
-
 ● Full stack website.
 <br/>
 ● It’s a car selling-based website and new features can be added.
@@ -79,6 +77,7 @@ make an admin.
 Project Name - Travel Agency - <a href="https://travel-agency-ac3cd.web.app/">
   Live Site
 </a>
+<br/>
 Technologies: React.js, Firebase, React Bootstrap, Material-UI, Node.js, MongoDB, Express.js.
 <br/>
 ● Full stack website.
@@ -91,6 +90,7 @@ Technologies: React.js, Firebase, React Bootstrap, Material-UI, Node.js, MongoDB
 Project Name - Health Care - <a href="https://health-bag-32b48.web.app/">
   Live Site
 </a>
+<br/>
 Technologies: React.js, Firebase, React Bootstrap.
 <br/>
 ● Developed a medical website, which serves different kinds of medical.
@@ -98,13 +98,6 @@ Technologies: React.js, Firebase, React Bootstrap.
 ● This Website is fully Response on all devices.
 <br/>
 ● They can get an appointment after login in.
-
-
-- Car Selling:[https://car-selling-ef9d9.web.app/](https://car-selling-ef9d9.web.app/)
-
-- Travel Agency:[https://travel-agency-ac3cd.web.app/](https://travel-agency-ac3cd.web.app/)
-
-- Health Bag:[https://health-bag-32b48.web.app/](https://health-bag-32b48.web.app/)
 
 ## 📈 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik255&label=Profile%20views&color=0e75b6&style=flat" alt="ashik255" /> </p>
